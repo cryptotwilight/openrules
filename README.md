@@ -1,2 +1,2 @@
-# openrules
-This is the Open Rules project a cheap way to integrate business rules and on chain arbitration
+# Open Rules 
+The Open Rules project has been created to provide an easy to use way to arbitrate failed business transactions on chain.
